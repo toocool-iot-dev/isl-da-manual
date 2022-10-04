@@ -2,8 +2,9 @@
 The purpose of this document is to outline the Application Programming Interface (API) available via ISL metering hub platform. The web services allow accessing to data saved in the server with authorized users. This document provides information about the technical features of the API, and describes each API with its parameter formats and other related details. 
 
 ### Revision History
-    • December 2021 – first draft
-    • September 2022 – APIs’ details
+- December 2021 – first draft
+- September 2022 – APIs’ details added
+- October 2022 - Server installation manual added
 
 ## Introduction
 The ISL API allows other software applications to access its device database for data query purposes, displaying device data in other applications, etc. The following is a list of available APIs:
