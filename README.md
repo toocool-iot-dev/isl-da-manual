@@ -49,7 +49,7 @@ API address: http://35.240.165.193:3000/v1
 
         git pull https://toocool-iot-dev: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@github.com/toocool-iot-dev/metering-hub.git  
 
-    This git token will be monthly expired, for security purpose.
+   This git token will be monthly expired, for security purpose.
 2) Get into directory.
 
         cd metering-hub
@@ -97,7 +97,7 @@ API address: http://35.240.165.193:3000/v1
 
         git pull https://toocool-iot-dev:fVBNPPDPq6d1IYRJ4KEwARNL2wvNCi1tgTX7@github.com/toocool-iot-dev/isl-device-management.git 
     
-This git token will be monthly expired, for security purpose.
+   This git token will be monthly expired, for security purpose.
 
 2) Get into directory.
 
