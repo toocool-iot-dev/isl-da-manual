@@ -2,7 +2,8 @@ openapi: 3.0.0
 info:
   title: Impact Solar Data Aggregator API documentation 2
   version: 1.6.0
-  description: The purpose of this document is to outline the Application Programming Interface (API) available via ISL metering hub platform. The web services allow accessing to data saved in the server with authorized users. This document provides information about the technical features of the API, and describes each API with its parameter formats and other related details. The ISL API allows other software applications to access its device database for data query purposes, displaying device data in other applications, etc. 
+  description: 
+    $ref: ./README.md
   termsOfService: To be defined
   contact:
     name: Impact Solar 
